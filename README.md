@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/coder-aman2021/DSA_PRACTICE/tree/master/0076-minimum-window-substring) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/coder-aman2021/DSA_PRACTICE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Stack
 |  |
@@ -25,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/coder-aman2021/DSA_PRACTICE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Hash Table
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/coder-aman2021/DSA_PRACTICE/tree/master/0076-minimum-window-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/coder-aman2021/DSA_PRACTICE/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
