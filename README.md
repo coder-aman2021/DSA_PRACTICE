@@ -34,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/coder-aman2021/DSA_PRACTICE/tree/master/0076-minimum-window-substring) |
+## Math
+|  |
+| ------- |
+| [3870-count-commas-in-range](https://github.com/coder-aman2021/DSA_PRACTICE/tree/master/3870-count-commas-in-range) |
 <!---LeetCode Topics End-->
