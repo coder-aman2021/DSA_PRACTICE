@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/coder-aman2021/DSA_PRACTICE/tree/master/0152-maximum-product-subarray) |
 | [3904-smallest-stable-index-ii](https://github.com/coder-aman2021/DSA_PRACTICE/tree/master/3904-smallest-stable-index-ii) |
 ## Prefix Sum
 |  |
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3870-count-commas-in-range](https://github.com/coder-aman2021/DSA_PRACTICE/tree/master/3870-count-commas-in-range) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/coder-aman2021/DSA_PRACTICE/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
