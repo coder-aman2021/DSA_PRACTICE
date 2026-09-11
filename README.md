@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/coder-aman2021/DSA_PRACTICE/tree/master/0152-maximum-product-subarray) |
 | [0713-subarray-product-less-than-k](https://github.com/coder-aman2021/DSA_PRACTICE/tree/master/0713-subarray-product-less-than-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/coder-aman2021/DSA_PRACTICE/tree/master/0930-binary-subarrays-with-sum) |
 | [3904-smallest-stable-index-ii](https://github.com/coder-aman2021/DSA_PRACTICE/tree/master/3904-smallest-stable-index-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/coder-aman2021/DSA_PRACTICE/tree/master/0713-subarray-product-less-than-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/coder-aman2021/DSA_PRACTICE/tree/master/0930-binary-subarrays-with-sum) |
 | [3904-smallest-stable-index-ii](https://github.com/coder-aman2021/DSA_PRACTICE/tree/master/3904-smallest-stable-index-ii) |
 ## String
 |  |
@@ -33,11 +35,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/coder-aman2021/DSA_PRACTICE/tree/master/0076-minimum-window-substring) |
+| [0930-binary-subarrays-with-sum](https://github.com/coder-aman2021/DSA_PRACTICE/tree/master/0930-binary-subarrays-with-sum) |
 ## Sliding Window
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/coder-aman2021/DSA_PRACTICE/tree/master/0076-minimum-window-substring) |
 | [0713-subarray-product-less-than-k](https://github.com/coder-aman2021/DSA_PRACTICE/tree/master/0713-subarray-product-less-than-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/coder-aman2021/DSA_PRACTICE/tree/master/0930-binary-subarrays-with-sum) |
 ## Math
 |  |
 | ------- |
