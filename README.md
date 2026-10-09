@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/coder-aman2021/DSA_PRACTICE/tree/master/0002-add-two-numbers) |
 | [3870-count-commas-in-range](https://github.com/coder-aman2021/DSA_PRACTICE/tree/master/3870-count-commas-in-range) |
 ## Dynamic Programming
 |  |
@@ -56,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/coder-aman2021/DSA_PRACTICE/tree/master/0713-subarray-product-less-than-k) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/coder-aman2021/DSA_PRACTICE/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/coder-aman2021/DSA_PRACTICE/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
